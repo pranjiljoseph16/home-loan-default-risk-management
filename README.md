@@ -13,11 +13,11 @@
                  Deep Learning
 7. Model Evaluation – 
 
-                  Model Name	               Accuracy
-              Logistic Regression     	      92.01%
-              Random Forest classifier	      91.8%
-              XGBoost	                92.03%
-              LGBM classifier         	      92.18%
-              Deep Learning	                92.04%
+                  Model Name	                         Accuracy
+              Logistic Regression     	                92.01%
+              Random Forest classifier	                91.8%
+              XGBoost	                          92.03%
+              LGBM classifier         	                92.18%
+              Deep Learning	                          92.04%
 
 After comparing the performance of all the above techniques,  LGBM classifier performs the best followed by the Deep Learning neural network classifier.
